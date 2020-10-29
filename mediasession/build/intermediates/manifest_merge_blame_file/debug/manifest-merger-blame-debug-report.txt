@@ -19,8 +19,8 @@
 19
 20    <uses-sdk
 21        android:minSdkVersion="21"
-21-->E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+21-->E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
 22        android:targetSdkVersion="29" />
-22-->E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+22-->E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
 23
 24</manifest>

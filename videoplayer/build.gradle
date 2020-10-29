@@ -63,7 +63,7 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
     implementation 'org.greenrobot:eventbus:3.2.0'
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
-//    api project(path: ':adsmanager')
+    api project(path: ':adsmanager')
     implementation 'com.google.firebase:firebase-ads:19.0.1'
 
 }

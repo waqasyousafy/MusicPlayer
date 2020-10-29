@@ -3,6 +3,7 @@ include ':app'
 include ':videoplayer'
 include ':mediasession'
 include ':equalizer'
+include ':adsmanager'
 gradle.ext.exoplayerRoot = 'E:\\Downloads-backup-1june2020\\Downloads\\ExoPlayer-release-v2 (2)\\ExoPlayer-release-v2'
 gradle.ext.exoplayerModulePrefix = 'exoplayer-'
 apply from: new File(gradle.ext.exoplayerRoot, 'core_settings.gradle')

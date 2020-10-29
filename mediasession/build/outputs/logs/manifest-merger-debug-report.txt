@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml:17:1-69
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml:17:1-69
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml:17:1-69
+ADDED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml:17:1-69
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml:17:1-69
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml:17:1-69
 	package
-		ADDED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml:17:11-67
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+		ADDED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml:17:11-67
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml:17:1-69
+		ADDED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml:17:1-69
 uses-sdk
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-		ADDED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+		ADDED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-		ADDED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
-		INJECTED from E:\home-browse-data\mediaPlayerUploaded\mvm_2\mvm\mediasession\src\main\AndroidManifest.xml
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+		ADDED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
+		INJECTED from E:\home-browse-data\original dat\Music-Player-master\MusicPlayer\mediasession\src\main\AndroidManifest.xml
