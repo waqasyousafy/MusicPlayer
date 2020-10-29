@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\values-kk\\values-kk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "316",
+                        "endColumns": "100",
+                        "endOffsets": "412"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\values-kk\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "224,53,141",
+                        "endColumns": "83,87,82",
+                        "endOffsets": "305,138,221"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,141,231",
+                        "endColumns": "85,89,84",
+                        "endOffsets": "136,226,311"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "316",
+                        "endColumns": "100",
+                        "endOffsets": "412"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\values-kk\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "224,53,141",
+                        "endColumns": "83,87,82",
+                        "endOffsets": "305,138,221"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,141,231",
+                        "endColumns": "85,89,84",
+                        "endOffsets": "136,226,311"
+                    }
+                }
+            ]
+        }
+    ]
+}

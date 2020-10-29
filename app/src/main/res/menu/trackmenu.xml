@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/edit"
+        android:title="@string/Edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ringingTone"
+        android:title="@string/ringtone_set"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addToPlaylist"
+        android:title="@string/add_to_playlist"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/deleteSong"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+</menu>

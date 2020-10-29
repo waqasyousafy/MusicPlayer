@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#56000000</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="HeaderBar">
+        <item name="android:background">#70000000</item>
+    </style>
+
+    <style name="CustomAlertDialog" parent="android:Theme.Holo.Dialog">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <drawable name="exo_notification_play">@drawable/exo_notification_play</drawable>
+    <drawable name="exo_notification_pause">@drawable/notificationpause</drawable>
+    <style name="customDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!--<item name="android:windowAnimationStyle">@style/CustomDialogAnimation</item>-->
+        <item name="android:windowMinWidthMajor">92%</item>
+        <item name="android:windowMinWidthMinor">92%</item>
+    </style>
+</resources>

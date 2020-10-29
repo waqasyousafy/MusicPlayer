@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularSeekBar">
+<!--        <attr name="progressValue" format="integer"/>-->
+        <attr name="max" format="integer"/>
+        <attr name="move_outside_circle" format="boolean"/>
+        <attr name="maintain_equal_circle" format="boolean"/>
+        <attr name="use_custom_radii" format="boolean"/>
+        <attr name="lock_enabled" format="boolean"/>
+        <attr name="circle_x_radius" format="dimension" />
+        <attr name="circle_y_radius" format="dimension" />
+        <attr name="circle_stroke_width" format="dimension" />
+        <attr name="pointer_radius" format="dimension" />
+        <attr name="pointer_halo_width" format="dimension" />
+        <attr name="pointer_halo_border_width" format="dimension"/>
+        <attr name="circle_color" format="color"/>
+        <attr name="circle_progress_color" format="color"/>
+        <attr name="pointer_color" format="color"/>
+        <attr name="pointer_halo_color" format="color"/>
+        <attr name="pointer_halo_color_ontouch" format="color"/>
+        <attr name="pointer_alpha_ontouch" format="integer"/>
+        <attr name="start_angle" format="float"/>
+        <attr name="end_angle" format="float"/>
+        <attr name="circle_fill" format="color"/>
+    </declare-styleable>
+
+        <declare-styleable name="FloatingActionMenu">
+            <attr name="fam_threshold" format="dimension"></attr>
+            <attr name="fam_gap" format="dimension"></attr>
+            <attr name="fam_horizontalPadding" format="dimension"></attr>
+            <attr name="fam_verticalPadding" format="dimension"></attr>
+            <attr name="android:animationDuration"></attr>
+            <attr name="android:interpolator"></attr>
+            <attr name="fam_gravity" format="integer"></attr>
+            <attr name="fam_direction"></attr>
+        </declare-styleable>
+
+        <declare-styleable name="FloatingActionItem">
+            <attr name="fam_item_background" format="reference" />
+            <attr name="fam_item_delay" format="integer" />
+            <attr name="fam_item_stateListAnimator" format="reference" />
+
+            <attr name="android:src" />
+            <attr name="android:padding" />
+        </declare-styleable>
+
+        <attr name="fam_direction" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+
+
+</resources>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_media_action_repeat_off.png",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-mdpi\\exo_media_action_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_media_action_repeat_all.png",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-mdpi\\exo_media_action_repeat_all.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_media_action_repeat_one.png",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-mdpi\\exo_media_action_repeat_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]

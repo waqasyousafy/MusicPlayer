@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.android.exoplayer2.ext.mediasession.test" >
+4
+5    <uses-sdk
+5-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:11:5-15:101
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:13:22-53
+13        android:label="Tests for com.google.android.exoplayer2.ext.mediasession.test"
+13-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:15:22-99
+14        android:targetPackage="com.google.android.exoplayer2.ext.mediasession.test" />
+14-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:12:22-97
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:library-core] C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\library\core\buildout\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-79
+16-->[:library-core] C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\library\core\buildout\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-76
+17
+18    <application
+18-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:7:5-9:19
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.1] C:\Users\Waqas\.gradle\caches\transforms-2\files-2.1\9556332a067b2dcb070d121e5ff3e1d6\core-1.0.1\AndroidManifest.xml:22:18-86
+20        android:debuggable="true" >
+20-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:7:18-43
+21        <uses-library android:name="android.test.runner" />
+21-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:8:9-60
+21-->C:\Users\Waqas\Downloads\ExoPlayer-release-v2\ExoPlayer-release-v2\extensions\mediasession\buildout\intermediates\tmp\manifest\androidTest\debug\manifestMerger6257583780814306568.xml:8:23-57
+22    </application>
+23
+24</manifest>

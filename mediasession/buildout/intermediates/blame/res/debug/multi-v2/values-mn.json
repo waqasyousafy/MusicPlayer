@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "361",
+                        "endColumns": "100",
+                        "endOffsets": "457"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\values-mn\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "260,53,149",
+                        "endColumns": "92,95,110",
+                        "endOffsets": "350,146,257"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,150,248",
+                        "endColumns": "94,97,112",
+                        "endOffsets": "145,243,356"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Waqas\\.gradle\\caches\\transforms-2\\files-2.1\\9556332a067b2dcb070d121e5ff3e1d6\\core-1.0.1\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "361",
+                        "endColumns": "100",
+                        "endOffsets": "457"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\values-mn\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "260,53,149",
+                        "endColumns": "92,95,110",
+                        "endOffsets": "350,146,257"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,150,248",
+                        "endColumns": "94,97,112",
+                        "endOffsets": "145,243,356"
+                    }
+                }
+            ]
+        }
+    ]
+}

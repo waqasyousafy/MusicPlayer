@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueColor">#6200EE</color>
+    <color name="colorPrimaryDark">#0665D8</color>
+    <color name="colorAccent">#fff</color>
+    <color name="actionbarcolor">#f000</color>
+    <color name="tabselectedcolor">#EEBA00</color>
+    <color name="actionBarColor">#4A92A8</color>
+    <color name="colorPrimary">#48BCDF</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparaent">#00000000</color>
+</resources>

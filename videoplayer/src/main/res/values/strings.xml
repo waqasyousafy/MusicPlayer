@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hazel VideoPlayer</string>
+    <string name="pip_action_mute">mute</string>
+    <string name="pip_action_mute_description">muted</string>
+    <string name="playback_channel_name">audioPlay</string>
+    <string name="msg_popup_permission">Pop up Permission Required</string>
+    <string name="use_inexact_seek_key">use_inexact_seek_key</string>
+    <string name="str_share_this_video">sharingVideo</string>
+    <string name="dissmiss_Text">Got it, Dismiss this</string>
+    <string name="videoplayerTipsText">Video Player Tips:</string>
+    <string name="dialog_position_getter">Do you want  to resume from where you stopped?</string>
+    <string name="backarrowiamge">backarrowiamge</string>
+    <string name="song">Song</string>
+    <string name="playbackspeedimage">playbackspeedimage</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="playasaudioimage">playasaudioimage</string>
+    <string name="play_as_audio">Play as audio</string>
+    <string name="popupimage">popupimage</string>
+    <string name="mute_player">Mute Player</string>
+</resources>

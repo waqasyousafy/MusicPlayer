@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:paddingLeft="30dp"
+    android:paddingTop="30dp"
+    android:paddingEnd="30dp">
+
+    <TextView
+        android:id="@+id/detailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="@string/Detail"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/pathText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="@string/path"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/detailText"
+        app:layout_constraintTop_toBottomOf="@+id/detailText" />
+
+    <TextView
+        android:id="@+id/trackPath"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/dumypath"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/titleEditText"
+        app:layout_constraintHorizontal_bias="0.03"
+        app:layout_constraintStart_toStartOf="@+id/titleEditText"
+        app:layout_constraintTop_toTopOf="@+id/pathText" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/sizeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/sizeText"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/pathText"
+        app:layout_constraintTop_toBottomOf="@+id/trackPath" />
+
+    <TextView
+        android:id="@+id/sizeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="2.3MB"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toEndOf="@+id/sizeTitle"
+        app:layout_constraintTop_toTopOf="@+id/sizeTitle" />
+
+    <TextView
+        android:id="@+id/timeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="@string/time"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toEndOf="@+id/sizeText"
+        app:layout_constraintTop_toTopOf="@+id/sizeTitle" />
+
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="@string/_02_34"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/timeTitle"
+        app:layout_constraintEnd_toEndOf="@+id/trackPath"
+        app:layout_constraintStart_toEndOf="@+id/timeTitle"
+        app:layout_constraintTop_toTopOf="@+id/timeTitle" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/trackTitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/title"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/sizeTitle"
+        app:layout_constraintTop_toBottomOf="@+id/sizeTitle" />
+
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:ellipsize="end"
+        android:maxLength="100"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="@string/dumy_text_song"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/trackTitleText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/trackTitleText"
+        app:layout_constraintTop_toTopOf="@+id/trackTitleText" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/albumText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/album"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/trackTitleText"
+        app:layout_constraintTop_toBottomOf="@+id/titleEditText" />
+
+    <EditText
+        android:id="@+id/albumEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="@string/dumy_alnum"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/albumText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/titleEditText"
+        app:layout_constraintTop_toTopOf="@+id/albumText" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/artistText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/artist"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/trackTitleText"
+        app:layout_constraintTop_toBottomOf="@+id/albumEditText" />
+
+    <EditText
+        android:id="@+id/artistEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="@string/dumy_artist"
+        android:textColor="#BA000000"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/artistText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/albumEditText"
+        app:layout_constraintTop_toTopOf="@+id/artistText" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/okButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="25dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="30dp"
+        android:text="@string/ok"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/artistEditText"
+        app:layout_constraintTop_toBottomOf="@+id/artistEditText" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/cancelButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:paddingStart="25dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="30dp"
+        android:text="@string/cancel"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/artistEditText"
+        app:layout_constraintEnd_toStartOf="@+id/okButton"
+        app:layout_constraintTop_toBottomOf="@+id/artistEditText" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

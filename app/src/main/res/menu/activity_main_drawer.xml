@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_proversion"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rateus"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_privacy"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_timer"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@drawable/ic_pro_ic"
+        android:title="@string/dumy"
+        app:showAsAction="never" />
+
+</menu>

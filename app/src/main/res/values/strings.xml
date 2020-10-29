@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="song_name">Song Name</string>
+    <string name="ad">ad</string>
+    <string name="dumy">Lorem Ipsum</string>
+    <string name="Edit">Edit</string>
+    <string name="Detail">Details</string>
+    <string name="path">Path: </string>
+    <string name="dumypath">/storage/emulated/0/Music Player/abc.mp3</string>
+    <string name="sizeText">Size:</string>
+    <string name="time">Time:</string>
+    <string name="_02_34">02:34</string>
+    <string name="title">Title:</string>
+    <string name="album">Album:</string>
+    <string name="artist">Artist:</string>
+    <string name="dumy_text_song">Dumy Text Song</string>
+    <string name="dumy_alnum">Dumy Alnum</string>
+    <string name="dumy_artist">Dumy Artist</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="ringtone_set">Set as Ringing tone</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="play">Play</string>
+    <string name="enqueue">Enqueue</string>
+</resources>

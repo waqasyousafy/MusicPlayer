@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee3847</color>
+    <color name="colorPrimaryDark">#ee3847</color>
+    <color name="orangeColor">#ee3847</color>
+    <color name="colorAccent">#ee3847</color>
+    <color name="white">#fff</color>
+    <color name="dtp_yt_background">#17FFFFFF</color>
+    <color name="dtp_yt_background_ripple">#3B000000</color>
+    <color name="grey_trans">#2A000000</color>
+    <color name="transparaent">#08000000</color>
+    <color name="dtp_overlay_dim">#70000000</color>
+    <color name="actionbarcolor">#ffca82</color>
+    <color name="black">#A9000000</color>
+
+
+</resources>

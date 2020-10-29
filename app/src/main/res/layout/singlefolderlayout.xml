@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/actionBarColor">
+
+    <ImageView
+        android:id="@+id/trackImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="#FC4A92A8"
+        android:padding="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/foldericon" />
+
+    <TextView
+        android:id="@+id/folderTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="TextView"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/numberofSongsText"
+        app:layout_constraintStart_toEndOf="@+id/trackImage"
+        app:layout_constraintTop_toTopOf="@+id/trackImage" />
+
+    <TextView
+        android:id="@+id/folderPath"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:maxLength="20"
+        app:layout_constraintBottom_toBottomOf="@+id/trackImage"
+        app:layout_constraintEnd_toEndOf="@+id/folderTitle"
+        app:layout_constraintStart_toStartOf="@+id/folderTitle" />
+
+    <ImageView
+        android:id="@+id/sideOptionIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/trackImage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sidemenu" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:text="songs"
+        app:layout_constraintBottom_toBottomOf="@+id/sideOptionIcon"
+        app:layout_constraintEnd_toStartOf="@+id/sideOptionIcon"
+        app:layout_constraintTop_toTopOf="@+id/sideOptionIcon" />
+
+    <TextView
+        android:id="@+id/numberofSongsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="3dp"
+        android:text="0"
+        app:layout_constraintBottom_toBottomOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="@+id/textView" />
+</androidx.constraintlayout.widget.ConstraintLayout>

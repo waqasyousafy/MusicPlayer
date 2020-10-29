@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\buildout\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml",
+        "source": "C:\\Users\\Waqas\\Downloads\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\mediasession\\src\\main\\res\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml"
+    }
+]
